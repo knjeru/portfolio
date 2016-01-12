@@ -2,11 +2,11 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1em; 
+	font-size: 1em;
 	background-color: #f1f1f1;
 }
 
-.mbody-content, 
+.mbody-content,
 .main-header,
 .main-footer {
  	text-align: center;
@@ -31,7 +31,7 @@ body {
 	font-weight: 500;
 	line-height: 1.25;
 	padding-bottom: 10px;
-	margin: auto;  
+	margin: auto;
 }
 
 /* General Title & Nav Styling + Border props */
@@ -54,15 +54,19 @@ body {
 
 /* jQuery Action Button Styling */
 
-#btt, 
-#btt2, 
+#btt,
+#btt2,
 #btt3 {
 	display: inline-block;
 	text-align: center;
 	margin-top: 125px;
 	height: 50px;
 	width: 200px;
-	font-size: 1.75em; 
+	font-size: 1.75em;
+}
+
+#btt2 {
+	margin-top: 15px;
 }
 
 /* Div Styling for jQuery */
